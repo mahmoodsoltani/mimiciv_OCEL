@@ -1,6 +1,10 @@
 # mimiciv_OCEL
 Create OCEL from MIMICIV dataset 
-
+# To reduce the size of dataset base on N patients ...
+In folder Filter_Dataset:
+  1) Run Create.sql
+  2) Run Insert.sql
+     
 #Repaire_transfer.sql
 
   In this query, we merge events with the same subject_id, hadm_id, careunit, eventtype value, and they occur sequentially.
