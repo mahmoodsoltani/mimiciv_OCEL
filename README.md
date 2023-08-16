@@ -8,6 +8,9 @@ Create OCEL from MIMICIV dataset
     1) Remove repeated rows
 
     2) Update Intime of last row
+
+   Sample repaire for subject_id = 10021395 and hadm_id=20075017
+  
 Original table:
 ![image](https://github.com/mahmoodsoltani/mimiciv_OCEL/assets/36055083/c9841230-1b01-4749-ac92-6ae01de9ff75)
 
