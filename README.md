@@ -8,6 +8,5 @@ Create OCEL from MIMICIV dataset
 Original table:
 ![image](https://github.com/mahmoodsoltani/mimiciv_OCEL/assets/36055083/c9841230-1b01-4749-ac92-6ae01de9ff75)
 
-
 Merged table:
 ![image](https://github.com/mahmoodsoltani/mimiciv_OCEL/assets/36055083/759150f6-9078-4aeb-a7d3-114697798247)
