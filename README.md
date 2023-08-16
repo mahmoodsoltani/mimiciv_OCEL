@@ -1,6 +1,6 @@
 # mimiciv_OCEL
 Create OCEL from MIMICIV dataset 
-# To reduce the size of dataset base on N patients ...
+## To reduce the size of dataset base on N patients ...
 In folder Filter_Dataset:
 
   1) Run Create.sql
@@ -11,16 +11,16 @@ In folder Filter_Dataset:
      ```
           Psql -d mimiciv -f insert.sql
      ```
-# Repaire_transfer.sql
+## Repaire_transfer.sql
 
   In this query, we merge events with the same subject_id, hadm_id, careunit, eventtype value, and they occur sequentially.
   
   steps:
-    
+  
     1) Remove repeated rows
-
     2) Update Intime of last row
 
+    
    Sample repaire for subject_id = 10021395 and hadm_id=20075017
   
 Original table:
