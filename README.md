@@ -5,7 +5,7 @@ In folder Filter_Dataset:
   1) Run Create.sql
   2) Run Insert.sql
      
-#Repaire_transfer.sql
+# Repaire_transfer.sql
 
   In this query, we merge events with the same subject_id, hadm_id, careunit, eventtype value, and they occur sequentially.
   
